@@ -1,41 +1,41 @@
 # Q3 Sentiment Audit — Findings
 
-Quarterly "street sentiment vs. our own research" check for the quant pod.
-
+**Quarterly "street sentiment vs. our own research" check for the quant pod.**
 **Source material:** `research_pack.pdf` (12 pages) — cover; the approved watchlist on its own page (the page with the *Q3 WATCHLIST* heading); five single-name deep dives; a methodology note; a cross-reference rollup; a relative-value snapshot; a risk addendum; and an appendix.
+**Repository:** `mcpmark-eval-liuhezi/q3-sentiment-audit` (https://github.com/mcpmark-eval-liuhezi/q3-sentiment-audit) — `watchlist.csv` and `findings.md` are committed there; `watchlist_excerpt.pdf` is saved in the workspace.
 
-**Governance note (audit rule):** the sentiment pull was executed against the committed `watchlist.csv` in this repository — the file was re-read from the repository before the pull. Current tickers: AAPL, MSFT, NVDA, TSLA, AMZN.
+> **Governance note.** The sentiment pull was executed against the committed `watchlist.csv` in this repository — the file was re-read from the repository before the pull. Current tickers, in order: AAPL, MSFT, NVDA, TSLA, AMZN. Profile sectors and the five-bucket recommendation snapshot (strongBuy / buy / hold / sell / strongSell) come from each company's Yahoo Finance profile and recommendation snapshot as reported at pull time.
+
+---
 
 ## AAPL — Apple Inc.
 
-- **Company:** Apple Inc.
-- **Sector:** Technology
-- **Current analyst recommendation snapshot (Yahoo Finance):** strongBuy 6, buy 18, hold 13, sell 3, strongSell 3 (43 analysts in total)
-- **Street view vs. quote (as reported by Yahoo Finance):** stock $331.90; consensus key "buy", mean rec score 2.23; street mean price target ~$333.44 — roughly in line with the current quote.
+- **Company:** Apple Inc. — **Sector:** Technology (Yahoo Finance profile)
+- **Current analyst recommendation snapshot (Yahoo Finance, period 0m):** strongBuy 6, buy 18, hold 13, sell 3, strongSell 3 — 43 analysts total
+- **Street view vs. quote (as reported by Yahoo Finance):** stock $331.90; consensus key "buy"; mean rec score 2.23; street mean price target ~$333.44 — roughly in line with the current quote
 
 **Recent upgrades / downgrades:**
 
 | Type | Firm | Date | Grade change | Price target |
 |---|---|---|---|---|
-| Down | China Renaissance | 2026-08-04 | Buy → Hold | PT announced at 280 |
 | Down | Loop Capital | 2026-10-20 | Buy → Hold | 370 → 330 |
 | Down | Jefferies | 2026-08-10 | Hold → Underperform | 285.56 → 263.66 |
+| Down | China Renaissance | 2026-08-04 | Buy → Hold | PT announced at 280 |
 | Down | KGI Securities | 2026-06-22 | Outperform → Hold | PT announced at 315 |
 | Up | BNP Paribas | 2026-04-17 | Neutral → Outperform | PT announced at 300 |
 | Up | Rothschild & Co | 2026-08-17 | Neutral → Buy | 260 → 400 |
 
-Context: the 2026-11-03 run of intra-rating price-target moves inside maintained ratings — JP Morgan cut 360 → 355 and TD Cowen cut 400 → 390, while UBS raised 296 → 340, Argus 375 → 400, DA Davidson 270 → 295, Baird 330 → 340 and Morgan Stanley trimmed 355 → 350.
+Context: a 2026-11-03 run of intra-rating price-target moves inside maintained ratings — JP Morgan 360 → 355 and TD Cowen 400 → 390 while UBS 296 → 340, Argus 375 → 400, DA Davidson 270 → 295, Baird 330 → 340 and Morgan Stanley 355 → 350.
 
-**Street read:** drifting more cautious — four downgrades in the trailing twelve months (Loop Capital, Jefferies, KGI Securities and China Renaissance); the largest recent move is Loop Capital, a one-notch downgrade.
+**Street read:** drifting more cautious — four downgrades in the trailing twelve months (Loop Capital, Jefferies, KGI Securities, China Renaissance); the largest recent move is Loop Capital, a one-notch downgrade.
 
-- **Mention pages in research pack:** 2, 3, 9, 10, 12 (5 mentions)
+- **Mention pages in research pack:** 2 (watchlist), 3 (deep dive), 9 (cross-reference rollup), 10 (relative-value snapshot), 12 (appendix) — 5 mentions
 
 ## MSFT — Microsoft Corporation
 
-- **Company:** Microsoft Corporation
-- **Sector:** Technology
-- **Current analyst recommendation snapshot (Yahoo Finance):** strongBuy 12, buy 40, hold 5, sell 0, strongSell 0 (57 analysts in total)
-- **Street view vs. quote (as reported by Yahoo Finance):** stock $520.99; consensus key "strong buy", mean rec score 1.39; street mean price target ~$633.13 — comfortably above the current quote.
+- **Company:** Microsoft Corporation — **Sector:** Technology
+- **Current analyst recommendation snapshot (Yahoo Finance, period 0m):** strongBuy 12, buy 40, hold 5, sell 0, strongSell 0 — 57 analysts total
+- **Street view vs. quote (as reported by Yahoo Finance):** stock $520.99; consensus key "strong buy"; mean rec score 1.39; street mean price target ~$633.13 — comfortably above the current quote
 
 **Recent upgrades / downgrades:**
 
@@ -48,14 +48,13 @@ Context: a very broad single-day PT-raise cluster on 2026-10-29 across most Stre
 
 **Street read:** the strongest Street engagement of the five names; the 2025-11-18 downgrade is the only negative notice in the current 12-month window.
 
-- **Mention pages in research pack:** 2, 4, 9, 10, 11, 12 (6 mentions)
+- **Mention pages in research pack:** 2 (watchlist), 4 (deep dive), 9 (cross-reference rollup), 10 (relative-value snapshot), 11 (risk addendum — with AMZN), 12 (appendix) — 6 mentions
 
 ## NVDA — NVIDIA Corporation
 
-- **Company:** NVIDIA Corporation
-- **Sector:** Technology
-- **Current analyst recommendation snapshot (Yahoo Finance):** strongBuy 10, buy 49, hold 2, sell 1, strongSell 0 (62 analysts in total)
-- **Street view vs. quote (as reported by Yahoo Finance):** stock $206.69; consensus key "strong buy", mean rec score 1.29; street mean price target ~$327.14 — about 58% above the current quote.
+- **Company:** NVIDIA Corporation — **Sector:** Technology
+- **Current analyst recommendation snapshot (Yahoo Finance, period 0m):** strongBuy 10, buy 49, hold 2, sell 1, strongSell 0 — 62 analysts total
+- **Street view vs. quote (as reported by Yahoo Finance):** stock $206.69; consensus key "strong buy"; mean rec score 1.29; street mean price target ~$327.14 — about 58% above the current quote
 
 **Recent upgrades / downgrades:**
 
@@ -65,20 +64,19 @@ Context: a very broad single-day PT-raise cluster on 2026-10-29 across most Stre
 | Up (initiation) | BMO Capital | 2026-08-21 | — (initiated at Outperform) | announced at 340 |
 | Up (initiation) | China Renaissance | 2026-06-05 | — (initiated at Buy) | announced at 319 |
 
-Initiations, not grade changes — no upgrades or downgrades (grade changes) exist in the trailing 12-month window: the lightest downgrade ratio on the watchlist.
+**Initiations, not grade changes — no upgrades or downgrades (grade changes) exist in the trailing 12-month window: the lightest downgrade ratio on the watchlist.**
 
 Context: a large PT-raise cluster on 2026-08-27 — Raymond James 352 → 515, Evercore ISI 413 → 465, Bernstein 315 → 400, RBC Capital 300 → 330, JP Morgan 280 → 320, UBS 280 → 300, Truist 307 → 346, Citigroup 300 → 315, Mizuho 300 → 315, Oppenheimer 265 → 315, Morgan Stanley 288 → 300, Wedbush 330 → 345, Stifel 250 → 282, Jefferies 275 → 300, B of A 320 → 350, Baird 300 → 500, HSBC 295 → 325, TD Cowen 235 → 275, Barclays 240 → 275.
 
 **Street read:** the most orderly Street engagement of the five; heavy multi-firm coverage tightening on bullish targets.
 
-- **Mention pages in research pack:** 2, 5, 9, 10, 12 (5 mentions)
+- **Mention pages in research pack:** 2 (watchlist), 5 (deep dive), 9 (cross-reference rollup), 10 (relative-value snapshot), 12 (appendix) — 5 mentions
 
 ## TSLA — Tesla, Inc.
 
-- **Company:** Tesla, Inc.
-- **Sector:** Consumer Cyclical
-- **Current analyst recommendation snapshot (Yahoo Finance):** strongBuy 5, buy 15, hold 22, sell 2, strongSell 0 (44 analysts in total)
-- **Street view vs. quote (as reported by Yahoo Finance):** stock $398.50; consensus key "buy", mean rec score 2.30; street mean price target ~$413.10 — marginally above the current quote; beta 1.75 (highest of the five).
+- **Company:** Tesla, Inc. — **Sector:** Consumer Cyclical
+- **Current analyst recommendation snapshot (Yahoo Finance, period 0m):** strongBuy 5, buy 15, hold 22, sell 2, strongSell 0 — 44 analysts total
+- **Street view vs. quote (as reported by Yahoo Finance):** stock $398.50; consensus key "buy"; mean rec score 2.30; street mean price target ~$413.10 — marginally above the current quote; beta 1.75 (highest of the five)
 
 **Recent upgrades / downgrades:**
 
@@ -92,14 +90,13 @@ Downgrades: none in the current window. Context: an interior PT-trim round (Well
 
 **Street read:** the least Street-committed name; the fastest mover of the five, but largely around beta and single-model breadth.
 
-- **Mention pages in research pack:** 2, 6, 9, 10, 12 (5 mentions)
+- **Mention pages in research pack:** 2 (watchlist), 6 (deep dive), 9 (cross-reference rollup), 10 (relative-value snapshot), 12 (appendix) — 5 mentions
 
 ## AMZN — Amazon.com, Inc.
 
-- **Company:** Amazon.com, Inc.
-- **Sector:** Consumer Cyclical
-- **Current analyst recommendation snapshot (Yahoo Finance):** strongBuy 15, buy 42, hold 2, sell 0, strongSell 0 (59 analysts in total)
-- **Street view vs. quote (as reported by Yahoo Finance):** stock $250.69; consensus key "strong buy", mean rec score 1.32; street mean price target ~$326.74 — well above the current quote.
+- **Company:** Amazon.com, Inc. — **Sector:** Consumer Cyclical
+- **Current analyst recommendation snapshot (Yahoo Finance, period 0m):** strongBuy 15, buy 42, hold 2, sell 0, strongSell 0 — 59 analysts total
+- **Street view vs. quote (as reported by Yahoo Finance):** stock $250.69; consensus key "strong buy"; mean rec score 1.32; street mean price target ~$326.74 — well above the current quote
 
 **Recent upgrades / downgrades:**
 
@@ -107,11 +104,13 @@ Downgrades: none in the current window. Context: an interior PT-trim round (Well
 |---|---|---|---|---|
 | Down (2025-11-18, outside the current window) | Rothschild & Co | 2025-11-18 | — (Buy → Neutral) | 250 maintained |
 
-No grade changes (upgrades or downgrades) within the current 12-month window, and no initiations within it. Context: a broad single-day PT-raise cluster on 2026-07-31 across the Street — Bernstein 315 → 320, Citigroup 325 → 350, Piper Sandler 315 → 320, Barclays 330 → 365, JP Morgan 330 → 365, BMO 355 → 360, Susquehanna 300 → 325, Evercore ISI 285 → 315, Oppenheimer 260 → 275, B of A 275 → 298, plus RBC Capital, Truist Securities, Keybanc Capital Markets and many others.
+**No grade changes (upgrades or downgrades) within the current 12-month window, and no initiations within it.** Context: a broad single-day PT-raise cluster on 2026-07-31 across the Street — Bernstein 315 → 320, Citigroup 325 → 350, Piper Sandler 315 → 320, Barclays 330 → 365, JP Morgan 330 → 365, BMO 355 → 360, Susquehanna 300 → 325, Evercore ISI 285 → 315, Oppenheimer 260 → 275, B of A 275 → 298, plus RBC Capital, Truist Securities, Keybanc Capital Markets and many others.
 
 **Street read:** the most uniformly bullish Street coverage of the five, but with stock tracking narrower than the Street's mean price target.
 
-- **Mention pages in research pack:** 2, 7, 9, 10, 11, 12 (6 mentions)
+- **Mention pages in research pack:** 2 (watchlist), 7 (deep dive), 9 (cross-reference rollup), 10 (relative-value snapshot), 11 (risk addendum — with MSFT), 12 (appendix) — 6 mentions
+
+---
 
 ## Mention Index (research pack)
 
@@ -124,8 +123,9 @@ No grade changes (upgrades or downgrades) within the current 12-month window, an
 | AMZN | 2, 7, 9, 10, 11, 12 | 6 |
 | **Total** | | **27** |
 
-**Method:** the full text of all 12 pages was read and scanned page-by-page, and additionally regex-scanned (`\b<symbol>\b`, case-insensitive) per name to guarantee nothing was missed. All five names appear on the approved watchlist page (2), the cross-reference rollup (9) and the relative-value snapshot (10) and the appendix (12); each has a dedicated single-name deep dive (3, 4, 5, 6, 7); MSFT and AMZN additionally appear together in the risk addendum (11). Pages 1 (cover) and 8 (methodology) carry no ticker mentions.
+**Method:** the full text of all 12 pages of `research_pack.pdf` was read page-by-page, and each name was additionally regex-scanned (`\b<symbol>\b`, case-insensitive) per name in the pack — the watchlist page, five single-name deep dives (3–7), the cross-reference rollup (9), the relative-value snapshot (10), the risk addendum (11), and the appendix (12) all carry mentions; pages 1 (cover) and 8 (methodology note) carry none. Regex scan and full read agreed on every page. Each of the five names appears on the approved watchlist page (2), the cross-reference rollup (9) and the relative-value snapshot (10) and the appendix (12); each has its own dedicated deep dive (3, 4, 5, 6, 7); MSFT and AMZN appear together in the risk addendum (11).
 
 ## Packaged
 
-The approved watchlist page (page 2 of `research_pack.pdf`) has been extracted to `watchlist_excerpt.pdf` in the workspace for the audit attachment.
+- `watchlist.csv` is committed in the repository (`main`), with header `ticker,company` and one row per name exactly as the pack lists them: AAPL/Apple Inc.; MSFT/Microsoft Corporation; NVDA/NVIDIA Corporation; TSLA/Tesla, Inc.; AMZN/Amazon.com, Inc.
+- The approved watchlist page (page 2 of `research_pack.pdf`) is extracted as `watchlist_excerpt.pdf` in the workspace — a single page containing exactly the six approved lines and nothing else.
