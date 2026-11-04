@@ -8,6 +8,7 @@ Quarterly "street sentiment vs. our own research" check for the quant pod.
 
 ## AAPL — Apple Inc.
 
+- **Company:** Apple Inc.
 - **Sector:** Technology
 - **Current analyst recommendation snapshot (Yahoo Finance):** strongBuy 6, buy 18, hold 13, sell 3, strongSell 3 (43 analysts in total)
 - **Street view vs. quote (as reported by Yahoo Finance):** stock $331.90; consensus key "buy", mean rec score 2.23; street mean price target ~$333.44 — roughly in line with the current quote.
@@ -16,20 +17,22 @@ Quarterly "street sentiment vs. our own research" check for the quant pod.
 
 | Type | Firm | Date | Grade change | Price target |
 |---|---|---|---|---|
+| Down | China Renaissance | 2026-08-04 | Buy → Hold | PT announced at 280 |
 | Down | Loop Capital | 2026-10-20 | Buy → Hold | 370 → 330 |
 | Down | Jefferies | 2026-08-10 | Hold → Underperform | 285.56 → 263.66 |
 | Down | KGI Securities | 2026-06-22 | Outperform → Hold | PT announced at 315 |
 | Up | BNP Paribas | 2026-04-17 | Neutral → Outperform | PT announced at 300 |
 | Up | Rothschild & Co | 2026-08-17 | Neutral → Buy | 260 → 400 |
 
-Context: the 2026-10-03 round was intra-rating price-target moves inside maintained ratings — JP Morgan cut 360 → 355 and TD Cowen cut 400 → 390, while UBS raised 296 → 340, Argus 375 → 400, DA Davidson 270 → 295, Baird 330 → 340 and Morgan Stanley trimmed 355 → 350.
+Context: the 2026-11-03 run of intra-rating price-target moves inside maintained ratings — JP Morgan cut 360 → 355 and TD Cowen cut 400 → 390, while UBS raised 296 → 340, Argus 375 → 400, DA Davidson 270 → 295, Baird 330 → 340 and Morgan Stanley trimmed 355 → 350.
 
-**Street read:** drifting more cautious — four downgrades in the trailing twelve months.
+**Street read:** drifting more cautious — four downgrades in the trailing twelve months (Loop Capital, Jefferies, KGI Securities and China Renaissance); the largest recent move is Loop Capital, a one-notch downgrade.
 
 - **Mention pages in research pack:** 2, 3, 9, 10, 12 (5 mentions)
 
 ## MSFT — Microsoft Corporation
 
+- **Company:** Microsoft Corporation
 - **Sector:** Technology
 - **Current analyst recommendation snapshot (Yahoo Finance):** strongBuy 12, buy 40, hold 5, sell 0, strongSell 0 (57 analysts in total)
 - **Street view vs. quote (as reported by Yahoo Finance):** stock $520.99; consensus key "strong buy", mean rec score 1.39; street mean price target ~$633.13 — comfortably above the current quote.
@@ -49,6 +52,7 @@ Context: a very broad single-day PT-raise cluster on 2026-10-29 across most Stre
 
 ## NVDA — NVIDIA Corporation
 
+- **Company:** NVIDIA Corporation
 - **Sector:** Technology
 - **Current analyst recommendation snapshot (Yahoo Finance):** strongBuy 10, buy 49, hold 2, sell 1, strongSell 0 (62 analysts in total)
 - **Street view vs. quote (as reported by Yahoo Finance):** stock $206.69; consensus key "strong buy", mean rec score 1.29; street mean price target ~$327.14 — about 58% above the current quote.
@@ -71,6 +75,7 @@ Context: a large PT-raise cluster on 2026-08-27 — Raymond James 352 → 515, E
 
 ## TSLA — Tesla, Inc.
 
+- **Company:** Tesla, Inc.
 - **Sector:** Consumer Cyclical
 - **Current analyst recommendation snapshot (Yahoo Finance):** strongBuy 5, buy 15, hold 22, sell 2, strongSell 0 (44 analysts in total)
 - **Street view vs. quote (as reported by Yahoo Finance):** stock $398.50; consensus key "buy", mean rec score 2.30; street mean price target ~$413.10 — marginally above the current quote; beta 1.75 (highest of the five).
@@ -83,7 +88,7 @@ Context: a large PT-raise cluster on 2026-08-27 — Raymond James 352 → 515, E
 | Up | CLSA | 2026-10-22 | Underperform → Hold | 310 → 400 |
 | Up | BNP Paribas | 2026-10-22 | Underperform → Neutral | 266 → 420 |
 
-Downgrades: none in the current window. Context: a July 2026 PT cuts round (Stifel 508 → 491, Truist 430 → 370, Wells Fargo 125 → 130) was followed by an October 2026 PT-raise wave (Jefferies 350 → 400, Mizuho 450 → 460, Piper Sandler 450 → 475, UBS 391 → 425, Canaccord 410 → 442, Morgan Stanley 400 → 410, Barclays 370 → 450). Citizens initiated at Market Perform (2026-07-09) and GLJ Research reiterated Sell (2026-10-22, PT 24.86).
+Downgrades: none in the current window. Context: an interior PT-trim round (Wells Fargo 125 → 130 on 2026-07-14; Stifel 508 → 491 and Truist 430 → 370 on 2026-08-03) was followed by an October 2026 PT-raise wave (Jefferies 350 → 400, Mizuho 450 → 460, Piper Sandler 450 → 475, UBS 391 → 425, Canaccord 410 → 442, Morgan Stanley 400 → 410, Barclays 370 → 450). Citizens initiated at Market Perform (2026-07-09) and GLJ Research reiterated Sell (2026-10-22, PT 24.86).
 
 **Street read:** the least Street-committed name; the fastest mover of the five, but largely around beta and single-model breadth.
 
@@ -91,6 +96,7 @@ Downgrades: none in the current window. Context: a July 2026 PT cuts round (Stif
 
 ## AMZN — Amazon.com, Inc.
 
+- **Company:** Amazon.com, Inc.
 - **Sector:** Consumer Cyclical
 - **Current analyst recommendation snapshot (Yahoo Finance):** strongBuy 15, buy 42, hold 2, sell 0, strongSell 0 (59 analysts in total)
 - **Street view vs. quote (as reported by Yahoo Finance):** stock $250.69; consensus key "strong buy", mean rec score 1.32; street mean price target ~$326.74 — well above the current quote.
@@ -101,7 +107,7 @@ Downgrades: none in the current window. Context: a July 2026 PT cuts round (Stif
 |---|---|---|---|---|
 | Down (2025-11-18, outside the current window) | Rothschild & Co | 2025-11-18 | — (Buy → Neutral) | 250 maintained |
 
-No grade changes (upgrades or downgrades) within the current 12-month window, and no initiations within it. Context: a broad single-day PT-raise cluster on 2026-07-31 across the Street — Morgan Stanley 315 → 320, Citigroup 325 → 350, Piper Sandler 315 → 320, Barclays 330 → 365, JP Morgan 330 → 365, BMO 355 → 360, Susquehanna 300 → 325, Evercore ISI 285 → 315, Oppenheimer 260 → 275, B of A Capital 275 → 298, plus RBC Capital, Truist Securities, Keybanc Capital Markets and many others.
+No grade changes (upgrades or downgrades) within the current 12-month window, and no initiations within it. Context: a broad single-day PT-raise cluster on 2026-07-31 across the Street — Bernstein 315 → 320, Citigroup 325 → 350, Piper Sandler 315 → 320, Barclays 330 → 365, JP Morgan 330 → 365, BMO 355 → 360, Susquehanna 300 → 325, Evercore ISI 285 → 315, Oppenheimer 260 → 275, B of A 275 → 298, plus RBC Capital, Truist Securities, Keybanc Capital Markets and many others.
 
 **Street read:** the most uniformly bullish Street coverage of the five, but with stock tracking narrower than the Street's mean price target.
 
