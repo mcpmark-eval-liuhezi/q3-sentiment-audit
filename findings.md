@@ -61,7 +61,7 @@ Context: a very broad single-day PT-raise cluster on 2026-10-29 across most Stre
 | Up (initiation) | BMO Capital | 2026-08-21 | — (initiated at Outperform) | announced at 340 |
 | Up (initiation) | China Renaissance | 2026-06-05 | — (initiated at Buy) | announced at 319 |
 
-\*Initiations, not grade changes — no upgrades or downgrades (grade changes) exist in the trailing 12-month window: the lightest downgrade ratio on the watchlist.
+Initiations, not grade changes — no upgrades or downgrades (grade changes) exist in the trailing 12-month window: the lightest downgrade ratio on the watchlist.
 
 Context: a large PT-raise cluster on 2026-08-27 — Raymond James 352 → 515, Evercore ISI 413 → 465, Bernstein 315 → 400, RBC Capital 300 → 330, JP Morgan 280 → 320, UBS 280 → 300, Truist 307 → 346, Citigroup 300 → 315, Mizuho 300 → 315, Oppenheimer 265 → 315, Morgan Stanley 288 → 300, Wedbush 330 → 345, Stifel 250 → 282, Jefferies 275 → 300, B of A 320 → 350, Baird 300 → 500, HSBC 295 → 325, TD Cowen 235 → 275, Barclays 240 → 275.
 
@@ -82,7 +82,6 @@ Context: a large PT-raise cluster on 2026-08-27 — Raymond James 352 → 515, E
 | Up | Barclays | 2026-10-26 | Equal-Weight → Overweight | 370 → 450 |
 | Up | CLSA | 2026-10-22 | Underperform → Hold | 310 → 400 |
 | Up | BNP Paribas | 2026-10-22 | Underperform → Neutral | 266 → 420 |
-| Down | none | — | — | — |
 
 Downgrades: none in the current window. Context: a July 2026 PT cuts round (Stifel 508 → 491, Truist 430 → 370, Wells Fargo 125 → 130) was followed by an October 2026 PT-raise wave (Jefferies 350 → 400, Mizuho 450 → 460, Piper Sandler 450 → 475, UBS 391 → 425, Canaccord 410 → 442, Morgan Stanley 400 → 410, Barclays 370 → 450). Citizens initiated at Market Perform (2026-07-09) and GLJ Research reiterated Sell (2026-10-22, PT 24.86).
 
