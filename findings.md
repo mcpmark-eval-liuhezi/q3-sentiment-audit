@@ -38,10 +38,10 @@ Context: the 2026-10-03 round was intra-rating price-target moves inside maintai
 
 | Type | Firm | Date | Grade change | Price target |
 |---|---|---|---|---|
-| Up | CLSA | 2026-07-20 | — (initiated at Outperform) | announced at 535 |
+| Up (initiation) | CLSA | 2026-07-20 | — (initiated at Outperform) | announced at 535 |
 | Down | Rothschild & Co | 2025-11-18 | Buy → Neutral | 560 → 500 |
 
-Context: a very broad single-day PT-raise cluster on 2026-10-29 across most Street firms — Bernstein 662 → 722, Citigroup 636 → 680, DA Davidson 550 → 650, TD Cowen 625 → 650, Scotiabank 625 → 650, Truist 600 → 630, Barclays 600 → 610, Wells Fargo 725 → 750, StoneX 600 → 630, Guggenheim 586 → 595, Keybanc 600 → 630, Stifel 575 → 650, Cantor 608 → 630, Piper Sandler 610 → 650, BMO 515 → 600, Mizuho 510 → 600, plus Jefferies, Evercore ISI, B of A Capital and others.
+Context: a very broad single-day PT-raise cluster on 2026-10-29 across most Street firms — Bernstein 662 → 722, Citigroup 636 → 680, DA Davidson 550 → 650, TD Cowen 625 → 650, Scotiabank 625 → 650, Truist 600 → 630, Barclays 600 → 610, Wells Fargo 725 → 750, StoneX 600 → 630, Guggenheim 586 → 595, Keybanc 600 → 630, Stifel 575 → 650, Cantor 608 → 630, Piper Sandler 610 → 650, BMO 515 → 600, Mizuho 510 → 600, plus Jefferies, Evercore ISI, B of A Capital and many others.
 
 **Street read:** the strongest Street engagement of the five names; the 2025-11-18 downgrade is the only negative notice in the current 12-month window.
 
@@ -61,7 +61,7 @@ Context: a very broad single-day PT-raise cluster on 2026-10-29 across most Stre
 | Up (initiation) | BMO Capital | 2026-08-21 | — (initiated at Outperform) | announced at 340 |
 | Up (initiation) | China Renaissance | 2026-06-05 | — (initiated at Buy) | announced at 319 |
 
-\*Initiations, not grade changes — **no upgrades or downgrades (grade changes) in the trailing 12-month window**: the lightest downgrade ratio on the watchlist.
+\*Initiations, not grade changes — no upgrades or downgrades (grade changes) exist in the trailing 12-month window: the lightest downgrade ratio on the watchlist.
 
 Context: a large PT-raise cluster on 2026-08-27 — Raymond James 352 → 515, Evercore ISI 413 → 465, Bernstein 315 → 400, RBC Capital 300 → 330, JP Morgan 280 → 320, UBS 280 → 300, Truist 307 → 346, Citigroup 300 → 315, Mizuho 300 → 315, Oppenheimer 265 → 315, Morgan Stanley 288 → 300, Wedbush 330 → 345, Stifel 250 → 282, Jefferies 275 → 300, B of A 320 → 350, Baird 300 → 500, HSBC 295 → 325, TD Cowen 235 → 275, Barclays 240 → 275.
 
@@ -82,9 +82,9 @@ Context: a large PT-raise cluster on 2026-08-27 — Raymond James 352 → 515, E
 | Up | Barclays | 2026-10-26 | Equal-Weight → Overweight | 370 → 450 |
 | Up | CLSA | 2026-10-22 | Underperform → Hold | 310 → 400 |
 | Up | BNP Paribas | 2026-10-22 | Underperform → Neutral | 266 → 420 |
-| Down | — | — | — | — |
+| Down | none | — | — | — |
 
-Downgrades: none in the current window. Context: a July 2026 PT cuts round (Stifel 508 → 491, Truist 430 → 370, Wells Fargo 125 → 130, Canaccord not in window) was followed by an October 2026 PT-raise wave (Jefferies 350 → 400, Mizuho 450 → 460, Piper Sandler 450 → 475, UBS 391 → 425, Canaccord 410 → 442, Morgan Stanley 400 → 410, Barclays 370 → 450). Citizens initiated at Market Perform (2026-07-09) and GLJ Research reiterated Sell (2026-10-22, PT 24.86).
+Downgrades: none in the current window. Context: a July 2026 PT cuts round (Stifel 508 → 491, Truist 430 → 370, Wells Fargo 125 → 130) was followed by an October 2026 PT-raise wave (Jefferies 350 → 400, Mizuho 450 → 460, Piper Sandler 450 → 475, UBS 391 → 425, Canaccord 410 → 442, Morgan Stanley 400 → 410, Barclays 370 → 450). Citizens initiated at Market Perform (2026-07-09) and GLJ Research reiterated Sell (2026-10-22, PT 24.86).
 
 **Street read:** the least Street-committed name; the fastest mover of the five, but largely around beta and single-model breadth.
 
@@ -100,13 +100,11 @@ Downgrades: none in the current window. Context: a July 2026 PT cuts round (Stif
 
 | Type | Firm | Date | Grade change | Price target |
 |---|---|---|---|---|
-| Down (2025-11-18) | Rothschild & Co | 2025-11-18 | — (Buy → Neutral) | 250 maintained |
+| Down (2025-11-18, outside the current window) | Rothschild & Co | 2025-11-18 | — (Buy → Neutral) | 250 maintained |
 
-The 2025-11-18 notching is outside the present 12-month window: **no grade changes (upgrades or downgrades) within the current window**, and no initiations before it on a single recent pass.
+No grade changes (upgrades or downgrades) within the current 12-month window, and no initiations within it. Context: a broad single-day PT-raise cluster on 2026-07-31 across the Street — Morgan Stanley 315 → 320, Citigroup 325 → 350, Piper Sandler 315 → 320, Barclays 330 → 365, JP Morgan 330 → 365, BMO 355 → 360, Susquehanna 300 → 325, Evercore ISI 285 → 315, Oppenheimer 260 → 275, B of A Capital 275 → 298, plus RBC Capital, Truist Securities, Keybanc Capital Markets and many others.
 
-Context: a broad single-day PT-raise cluster on 2026-07-31 across the Street — Morgan Stanley 315 → 320, Citigroup 325 → 350, Piper Sandler 315 → 320, Barclays 330 → 365, JP Morgan 330 → 365, BMO 355 → 360, Susquehanna 300 → 325, Evercore ISI 285 → 315, Oppenheimer 260 → 275, B of A 275 → 298, Plantations (not passing), RBC, Truist, Keybanc and many others.
-
-**Street read:** the most uniformly bullish Street coverage of the five, but with stock-tracking narrower than the Street's mean price target.
+**Street read:** the most uniformly bullish Street coverage of the five, but with stock tracking narrower than the Street's mean price target.
 
 - **Mention pages in research pack:** 2, 7, 9, 10, 11, 12 (6 mentions)
 
