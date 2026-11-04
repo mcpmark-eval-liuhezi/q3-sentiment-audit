@@ -44,7 +44,7 @@ Context: a 2026-11-03 run of intra-rating price-target moves inside maintained r
 | Up (initiation) | CLSA | 2026-07-20 | — (initiated at Outperform) | announced at 535 |
 | Down | Rothschild & Co | 2025-11-18 | Buy → Neutral | 560 → 500 |
 
-Context: a very broad single-day PT-raise cluster on 2026-10-29 across most Street firms — Bernstein 662 → 722, Citigroup 636 → 680, DA Davidson 550 → 650, TD Cowen 625 → 650, Scotiabank 625 → 650, Truist 600 → 630, Barclays 600 → 610, Wells Fargo 725 → 750, StoneX 600 → 630, Guggenheim 586 → 595, Keybanc 600 → 630, Stifel 575 → 650, Cantor 608 → 630, Piper Sandler 610 → 650, BMO 515 → 600, Mizuho 510 → 600, plus Jefferies, Evercore ISI, B of A Capital and many others.
+**Context:** a broad single-day PT-raise cluster on 2026-10-29 across most Street firms — Bernstein 662 → 722, Citigroup 636 → 680, DA Davidson 550 → 650, TD Cowen 625 → 650, Scotiabank 625 → 650, Truist 600 → 630, Barclays 600 → 610, Wells Fargo 725 → 750, StoneX 600 → 630, Guggenheim 586 → 595, Keybanc 600 → 630, Stifel 575 → 650, Cantor 608 → 630, Piper Sandler 610 → 650, BMO 515 → 600, Mizuho 510 → 600, plus Jefferies, Evercore ISI, B of A Capital and many others.
 
 **Street read:** the strongest Street engagement of the five names; the 2025-11-18 downgrade is the only negative notice in the current 12-month window.
 
@@ -66,7 +66,7 @@ Context: a very broad single-day PT-raise cluster on 2026-10-29 across most Stre
 
 **Initiations, not grade changes — no upgrades or downgrades (grade changes) exist in the trailing 12-month window: the lightest downgrade ratio on the watchlist.**
 
-Context: a large PT-raise cluster on 2026-08-27 — Raymond James 352 → 515, Evercore ISI 413 → 465, Bernstein 315 → 400, RBC Capital 300 → 330, JP Morgan 280 → 320, UBS 280 → 300, Truist 307 → 346, Citigroup 300 → 315, Mizuho 300 → 315, Oppenheimer 265 → 315, Morgan Stanley 288 → 300, Wedbush 330 → 345, Stifel 250 → 282, Jefferies 275 → 300, B of A 320 → 350, Baird 300 → 500, HSBC 295 → 325, TD Cowen 235 → 275, Barclays 240 → 275.
+**Context:** a large PT-raise cluster on 2026-08-27 — Raymond James 352 → 515, Evercore ISI 413 → 465, Bernstein 315 → 400, RBC Capital 300 → 330, JP Morgan 280 → 320, UBS 280 → 300, Truist 307 → 346, Citigroup 300 → 315, Mizuho 300 → 315, Oppenheimer 265 → 315, Morgan Stanley 288 → 300, Wedbush 330 → 345, Stifel 250 → 282, Jefferies 275 → 300, B of A 320 → 350, Baird 300 → 500, HSBC 295 → 325, TD Cowen 235 → 275, Barclays 240 → 275.
 
 **Street read:** the most orderly Street engagement of the five; heavy multi-firm coverage tightening on bullish targets.
 
